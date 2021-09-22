@@ -1,0 +1,15 @@
+Makayla Screen Recording
+Introduction - minutes
+ - starting up git
+ - have the program open
+ - overview of the program
+ - uses
+ - how to upload
+2nd - 
+ - basic git commands (Nick)
+3rd - 
+ - repository
+ - joining a repository (*)
+ - merge conflicts
+outro
+ - summary
